@@ -7,5 +7,5 @@ To build the docker image, execute the following command: ```docker build -t fxm
 
 To run the example: ```docker run -d -p 5000:5000 fxmartin/rpi-identidock```
 
-To test it: curl localhost:5000
+To test it: ```curl localhost:5000```
 
